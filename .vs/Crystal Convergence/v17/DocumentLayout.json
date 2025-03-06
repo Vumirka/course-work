@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Unity\\2022.3.10f1\\Projects\\Crystal Convergence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA3D6BA-FB83-9C10-4F19-5EAD8F2BA53C}|Assembly-CSharp.csproj|f:\\unity\\2022.3.10f1\\projects\\crystal convergence\\assets\\scripts\\audiosettingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA3D6BA-FB83-9C10-4F19-5EAD8F2BA53C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiosettingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA3D6BA-FB83-9C10-4F19-5EAD8F2BA53C}|Assembly-CSharp.csproj|f:\\unity\\2022.3.10f1\\projects\\crystal convergence\\assets\\scripts\\backbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA3D6BA-FB83-9C10-4F19-5EAD8F2BA53C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA3D6BA-FB83-9C10-4F19-5EAD8F2BA53C}|Assembly-CSharp.csproj|f:\\unity\\2022.3.10f1\\projects\\crystal convergence\\assets\\scripts\\buttonhovereffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA3D6BA-FB83-9C10-4F19-5EAD8F2BA53C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonhovereffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA3D6BA-FB83-9C10-4F19-5EAD8F2BA53C}|Assembly-CSharp.csproj|f:\\unity\\2022.3.10f1\\projects\\crystal convergence\\assets\\scripts\\dontdestroyonload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA3D6BA-FB83-9C10-4F19-5EAD8F2BA53C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dontdestroyonload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA3D6BA-FB83-9C10-4F19-5EAD8F2BA53C}|Assembly-CSharp.csproj|f:\\unity\\2022.3.10f1\\projects\\crystal convergence\\assets\\scripts\\languageswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA3D6BA-FB83-9C10-4F19-5EAD8F2BA53C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\languageswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA3D6BA-FB83-9C10-4F19-5EAD8F2BA53C}|Assembly-CSharp.csproj|f:\\unity\\2022.3.10f1\\projects\\crystal convergence\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA3D6BA-FB83-9C10-4F19-5EAD8F2BA53C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA3D6BA-FB83-9C10-4F19-5EAD8F2BA53C}|Assembly-CSharp.csproj|f:\\unity\\2022.3.10f1\\projects\\crystal convergence\\assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA3D6BA-FB83-9C10-4F19-5EAD8F2BA53C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA3D6BA-FB83-9C10-4F19-5EAD8F2BA53C}|Assembly-CSharp.csproj|f:\\unity\\2022.3.10f1\\projects\\crystal convergence\\assets\\scripts\\togglefullscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA3D6BA-FB83-9C10-4F19-5EAD8F2BA53C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\togglefullscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ToggleFullscreen.cs",
+              "DocumentMoniker": "F:\\Unity\\2022.3.10f1\\Projects\\Crystal Convergence\\Assets\\Scripts\\ToggleFullscreen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ToggleFullscreen.cs",
+              "ToolTip": "F:\\Unity\\2022.3.10f1\\Projects\\Crystal Convergence\\Assets\\Scripts\\ToggleFullscreen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ToggleFullscreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T20:48:55.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "F:\\Unity\\2022.3.10f1\\Projects\\Crystal Convergence\\Assets\\Scripts\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SoundManager.cs",
+              "ToolTip": "F:\\Unity\\2022.3.10f1\\Projects\\Crystal Convergence\\Assets\\Scripts\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SoundManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T20:48:52.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "F:\\Unity\\2022.3.10f1\\Projects\\Crystal Convergence\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "F:\\Unity\\2022.3.10f1\\Projects\\Crystal Convergence\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T20:48:45.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LanguageSwitcher.cs",
+              "DocumentMoniker": "F:\\Unity\\2022.3.10f1\\Projects\\Crystal Convergence\\Assets\\Scripts\\LanguageSwitcher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LanguageSwitcher.cs",
+              "ToolTip": "F:\\Unity\\2022.3.10f1\\Projects\\Crystal Convergence\\Assets\\Scripts\\LanguageSwitcher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LanguageSwitcher.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T20:48:43.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DontDestroyOnLoad.cs",
+              "DocumentMoniker": "F:\\Unity\\2022.3.10f1\\Projects\\Crystal Convergence\\Assets\\Scripts\\DontDestroyOnLoad.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DontDestroyOnLoad.cs",
+              "ToolTip": "F:\\Unity\\2022.3.10f1\\Projects\\Crystal Convergence\\Assets\\Scripts\\DontDestroyOnLoad.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DontDestroyOnLoad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T20:48:41.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ButtonHoverEffect.cs",
+              "DocumentMoniker": "F:\\Unity\\2022.3.10f1\\Projects\\Crystal Convergence\\Assets\\Scripts\\ButtonHoverEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonHoverEffect.cs",
+              "ToolTip": "F:\\Unity\\2022.3.10f1\\Projects\\Crystal Convergence\\Assets\\Scripts\\ButtonHoverEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonHoverEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T20:48:37.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BackButton.cs",
+              "DocumentMoniker": "F:\\Unity\\2022.3.10f1\\Projects\\Crystal Convergence\\Assets\\Scripts\\BackButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BackButton.cs",
+              "ToolTip": "F:\\Unity\\2022.3.10f1\\Projects\\Crystal Convergence\\Assets\\Scripts\\BackButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BackButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T20:48:36.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AudioSettingsManager.cs",
+              "DocumentMoniker": "F:\\Unity\\2022.3.10f1\\Projects\\Crystal Convergence\\Assets\\Scripts\\AudioSettingsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioSettingsManager.cs",
+              "ToolTip": "F:\\Unity\\2022.3.10f1\\Projects\\Crystal Convergence\\Assets\\Scripts\\AudioSettingsManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioSettingsManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T20:48:30.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
