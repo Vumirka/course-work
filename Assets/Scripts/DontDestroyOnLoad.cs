@@ -9,9 +9,8 @@ public class UIScaler : MonoBehaviour {
         float referenceRatio = canvasScaler.referenceResolution.x / canvasScaler.referenceResolution.y;
 
         if (screenRatio > referenceRatio)
-            canvasScaler.matchWidthOrHeight = 1;  // Орієнтуємося на висоту
-        else
-            canvasScaler.matchWidthOrHeight = 0;  // Орієнтуємося на ширину
+            canvasScaler.matchWidthOrHeight = 1;  
+            canvasScaler.matchWidthOrHeight = 0;  
     }
 }
 
